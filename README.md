@@ -6,7 +6,7 @@ Este es un clasificador K-Means para una base de datos de reconocimiento óptico
 - Clona este repositorio en tu máquina local.
 - Asegure que el respositorio se haya descargado correctamente.
 - Abre el programa que deseas ejecutar en tu entorno de desarrollo que soporte Python 3.11.2 64-bit.
-- Asegure de que cuando se ejecute el programa, los archivos para el entrenamiento (optdigits.tra) y de prueba (optdigits.tes) esten en el lugar donde se encuentre el programa (KNN_numeros_mano.py)
+- Asegure de que cuando se ejecute el programa, los archivos para el entrenamiento (optdigits.tra) y de prueba (optdigits.tes) esten en el lugar donde se encuentre el programa (KMeans.py)
 
 El conjunto de datos contiene imágenes de dígitos escritos a mano: 10 clases donde cada clase hace referencia a un dígito.
 <br><br>
