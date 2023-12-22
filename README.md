@@ -1,5 +1,5 @@
 # k-Means de números escrito a mano
-Este es un clasificador KNN para una base de datos de reconocimiento óptico de un conjunto de datos de dígitos escritos a mano.
+Este es un clasificador K-Means para una base de datos de reconocimiento óptico de un conjunto de datos de dígitos escritos a mano.
 
 ## Instrucciones de uso.
 
